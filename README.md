@@ -13,7 +13,7 @@
 
 View the website at the link below:
 
-<img src="./Planner/Capture.PNG">
+<img src="./Assets/Planner/Capture.PNG">
 
 MIT License
 ​
