@@ -12,6 +12,7 @@
 ## Demo
 
 View the website at the link below:
+https://sophiaaramburu.github.io/Planner/
 
 ![demo](./Assets/Capture.PNG)
 
