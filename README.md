@@ -6,7 +6,14 @@
 -I was assigned with building a responsive work day scheduler with specific acceptance criteria. This assignment, I was given the majority of the HTML and CSS. I had to make the functioning JavaScript on my own. I had to add the correct links for my CSS, bootstrap, and JavaScript. 
 
 ## 
--I watched A LOT of videos on Youtube to help me figure out what my next steps were. I added the correct code to make the Date and time appear underneath the jumbotron. Then, I created ID's and containers to create the boxes inside of HTML so I could call them inside of my JS. After that, I found a unicode for a save button to add to my HTML and CSS so that I could make the button to save whatever is typed inside my boxes in my work day scheduler. Then, I wrote the code to write the hours from my Local Storage. I did hour 1 through hour 10 (8-5 work day). 
+-I watched A LOT of videos on Youtube to help me figure out what my next steps were. I added the correct code to make the Date and time appear underneath the jumbotron. Then, I created ID's and containers to create the boxes inside of HTML so I could call them inside of my JS. After that, I found a unicode for a save button to add to my HTML and CSS so that I could make the button to save whatever is typed inside my boxes in my work day scheduler. Then, I wrote the code to write the hours from my Local Storage. I did hour 1 through hoyr 10. It took me a little while to figure out why the colors of the boxes weren't changing based off the time of day. I realized it's going by army time and not regular time. I had to tweak my code for it to work properly. 
+
+
+## Demo
+
+View the website at the link below:
+
+<img src="./Planner/Capture.PNG">
 
 MIT License
 ​
